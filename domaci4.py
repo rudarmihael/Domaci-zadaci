@@ -1,0 +1,2 @@
+
+print("Nema domaceg :(")
